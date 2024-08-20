@@ -1,0 +1,33 @@
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+DRS,DS,nom de la structure privée de santé, logiciels de gestion utilisés,Nombre Ordinateurs portables fonctionnels,Nombre de Serveurs fonctionnels,Nombre photocopieuses fonctionnelles,Débit de la Connexion Internet,"Dossier Patient Informatisé,","gestion des rendez-vous,","facturation,",Gestion des ressources humaines,Gestion matériels et équipements,Gestion des examens complémentaires,Autres,Nombre Ordinateurs fixes fonctionnels,Nombre Imprimantes fonctionnelles,Fibre optique,ADSL,Autres 
+DRS THIES,DS CENTRE,Cabinet Dr NDIAYE,"Dossier Patient Informatisé,",0,0,0,85,1,0,0,0,0,0,0,1,1,0,1,0
+,,Cabinet Médicale Dr THIAM CAMARA,"Dossier Patient Informatisé,",0,0,(vide),85,1,0,0,0,0,0,0,1,1,1,0,0
+,,Vision Médical Coumba,"Dossier Patient Informatisé, gestion des rendez-vous, facturation, Gestion des ressources humaines Gestion matériels et équipements Gestion des examens complémentaires",1,1,2,85,1,1,1,1,1,1,0,19,8,1,0,0
+,Total DS CENTRE,,,,,,,,,,,,,,21,10,2,1,0
+,DS MBOUR,Clinique La Mansour,"facturation,",2,0,3,512,0,0,1,0,0,0,0,2,3,0,1,0
+,,Clinique MEDICO -CHURURGICALE BILBASSI,"Dossier Patient Informatisé, facturation, Gestion des ressources humaines Gestion matériels et équipements Gestion des examens complémentaires",2,1,(vide),545,1,0,1,1,1,1,0,5,4,0,1,0
+,,Clinique pédiatrie de saly,"Dossier Patient Informatisé, gestion des rendez-vous, facturation, Autres",1,0,0,20,1,1,1,0,0,0,1,1,2,1,0,0
+,,Clinique Petite Côte Adams,"Dossier Patient Informatisé, gestion des rendez-vous, facturation, Gestion des examens complémentaires",3,1,2,10,1,1,1,0,0,1,0,10,6,1,0,0
+,,Keur moussa faye (futur du Sénégal),Autres,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1
+,,Mbind sœur Bea,Gestion matériels et équipements,1,0,0,126,0,0,0,0,1,0,0,1,0,0,1,0
+,,Urgence 24,"Dossier Patient Informatisé, gestion des rendez-vous, facturation, Gestion des ressources humaines Gestion matériels et équipements Gestion des examens complémentaires",0,2,0,512,1,1,1,1,1,1,0,13,10,1,0,0
+,Total DS MBOUR,,,,,,,,,,,,,,33,25,3,3,1
+,DS THIES,Bioconsult,"facturation, Dossier Patient Informatisé, gestion des rendez-vous,",1,0,1,512,1,1,1,0,0,0,0,5,3,0,1,0
+,,CABINET IMEHRA Hamdou rabby,"Dossier Patient Informatisé, gestion des rendez-vous, facturation, Gestion des examens complémentaires Autres",0,1,1,80,1,1,1,0,0,1,1,3,3,1,0,0
+,,Cabinet Médical Keur Soxna Jaara,"facturation, Gestion des examens complémentaires Dossier Patient Informatisé,",1,(vide),1,45,1,0,1,0,0,1,0,3,2,1,0,0
+,,Centre de santé mentale Dalal Xel,"Dossier Patient Informatisé, gestion des rendez-vous, facturation, Autres",0,1,1,9,1,1,1,0,0,0,1,9,3,0,0,1
+,,Clinique Docteur Bamba,"Dossier Patient Informatisé, gestion des rendez-vous, facturation, Gestion matériels et équipements",0,0,0,350,1,1,1,0,1,0,0,1,1,1,0,0
+,,Clinique la sagesse ,"facturation,",3,1,4,(vide),0,0,1,0,0,0,0,6,5,1,0,0
+,,Clinique TAWFEKH,"Dossier Patient Informatisé,",2,0,1,45,1,0,0,0,0,0,0,4,2,0,1,0
+,,Hôpital Barthimée,"facturation, Gestion des examens complémentaires",11,1,10,512,0,0,1,0,0,1,0,7,10,0,1,0
+,,Hôpital saint jean de dieu thies,"Dossier Patient Informatisé, gestion des rendez-vous, facturation, Gestion des ressources humaines Gestion matériels et équipements Gestion des examens complémentaires Autres",7,1,1,120,1,1,1,1,1,1,1,40,43,1,0,0
+,Total DS THIES,,,,,,,,,,,,,,78,72,5,3,1
+,DS TIVAOUNE,Clinique khalifa ababacar sy,"facturation,",2,(vide),1,512,0,0,1,0,0,0,0,1,2,0,1,0
+,,Clinique Serigne Mansour sy,"facturation,",1,0,3,512,0,0,1,0,0,0,0,2,3,1,0,0
+,,Clinique ya salam,"facturation,",0,0,0,512,0,0,1,0,0,0,0,1,0,0,1,0
+,,Clinique Yakar ,"facturation,",0,(vide),1,512,0,0,1,0,0,0,0,2,1,0,1,0
+,Total DS TIVAOUNE,,,,,,,,,,,,,,6,6,1,3,0
+Total DRS THIES,,,,,,,,,,,,,,,138,113,11,10,2
+Total général,,,,,,,,,,,,,,,308,195,25,13,2
